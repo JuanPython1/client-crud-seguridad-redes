@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "CRUD Libros USC",
+  "name": "CRUD de Libros Para Seguridad Web",
   "icons": [
     {
       "src": "favicon.ico",
