@@ -2,7 +2,7 @@ import axios from 'axios'
 import {useState} from 'react'
 import { useNavigate } from 'react-router-dom'
 
-const URI = 'http://localhost:8000/libros/'
+const URI = 'https://crud-seguridad-redes-production.up.railway.app/libros/'
 
 
 const CompCreateLibro = () => {
