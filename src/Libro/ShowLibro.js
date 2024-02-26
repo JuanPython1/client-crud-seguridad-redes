@@ -28,7 +28,7 @@ const CompShowLibros = () => {
             <div className='row'>
                 <div className='col'>
                     <h1>CRUD DE LIBROS</h1>
-                    <h2>by Juan Camilo Rodriguez & Juan Felipe Calvache</h2>
+                    <h2>by Juan Camilo Rodriguez & Juan Felipe Calvache & Jonathan</h2>
                     <Link to="/create" className='btn btn-primary mt-2 mb-2'><i className="fa-solid fa-file-pen"></i></Link>
                     <table className='table'>
                         <thead className='table-primary'>
